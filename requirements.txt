@@ -1,0 +1,29 @@
+# Core Django
+Django>=5.0
+djangorestframework>=3.15
+django-cors-headers>=4.3
+
+# PostgreSQL
+psycopg2-binary>=2.9
+
+# AI / NLP
+torch>=2.1
+transformers>=4.39
+sentence-transformers>=2.6
+scikit-learn>=1.4
+numpy>=1.26
+pandas>=2.2
+
+# FinBERT
+finbert-embedding>=0.2
+
+# HTTP & APIs
+requests>=2.31
+
+# Utilities
+python-dotenv>=1.0
+tqdm>=4.66
+
+# Deployment ready
+gunicorn>=21.2
+whitenoise>=6.6

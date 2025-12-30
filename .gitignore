@@ -20,8 +20,4 @@ dist/
 .vscode/
 .idea/
 
-# backend requirements
-requirements.txt
 
-#frontend packeges
-package.json
