@@ -1,0 +1,9 @@
+text,intent,risk
+"What are KCB branch hours?","branch_hours","LOW"
+"Where is the nearest KCB agent?","agent_location","LOW"
+"What are M-Pesa transfer charges?","fees","LOW"
+"How do I pay KPLC via mobile banking?","how_to","MEDIUM"
+"What documents do I need for a loan?","loan_requirements","MEDIUM"
+"I forgot my password","password_reset","HIGH"
+"What is my account balance?","account_balance","HIGH"
+"I want to transfer money","funds_transfer","HIGH"
