@@ -10,6 +10,7 @@ venv/
 db.sqlite3
 *.log
 staticfiles/
+DATABASES
 
 # Node
 node_modules/

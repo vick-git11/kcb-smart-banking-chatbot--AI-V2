@@ -96,3 +96,16 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 # CORS (allow React frontend)
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
+
+
+
+DATABASES = {
+    "default": {
+        "ENGINE": "django.db.backends.postgresql",
+        "NAME": "banking_chatbot",
+        "USER": "postgres",
+        "PASSWORD": "76824811Vv",
+        "HOST": "localhost",
+        "PORT": "5432",
+    }
+}
